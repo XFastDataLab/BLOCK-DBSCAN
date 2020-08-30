@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1524116987 source:d:\c1_dbscan\c1_dbscan\datapoint.cpp
+	"DataPoint.h"
+
+1524120451 d:\c1_dbscan\c1_dbscan\datapoint.h
+	<vector>
+
+1522254342 source:d:\c1_dbscan\c1_dbscan\cover_tree.cc
+	"cover_tree.h"
+	<limits.h>
+	<values.h>
+	<stdint.h>
+	<iostream>
+	<cmath>
+	<numeric>
+
+1524117024 d:\c1_dbscan\c1_dbscan\cover_tree.h
+	<string.h>
+	<list>
+	<stdlib.h>
+	<assert.h>
+	"point.h"
+
+1524117032 d:\c1_dbscan\c1_dbscan\point.h
+	"stack1.h"
+	<stdio.h>
+	<stdlib.h>
+	"DataPoint.h"
+	<assert.h>
+	<string.h>
+	<iostream>
+	<errno.h>
+
+1087759449 d:\c1_dbscan\c1_dbscan\stack.h
+	<stdlib.h>
+
+1524088135 source:d:\c1_dbscan\c1_dbscan\dbscan.cpp
+	"ClusterAnalysis.h"
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	"cyw_timer.h"
+
+1524122410 d:\c1_dbscan\c1_dbscan\clusteranalysis.h
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iosfwd>
+	"cover_tree.h"
+	<windows.h>
+	"cyw_timer.h"
+
+1524134000 d:\c1_dbscan\c1_dbscan\cyw_timer.h
+	<string.h>
+	<windows.h>
+	<stdio.h>
+
+1522249121 source:d:\c1_dbscan\c1_dbscan\point.cc
+	"point.h"
+
+1524124110 source:d:\c1_dbscan\c1_dbscan\clusteranalysis.cpp
+	"ClusterAnalysis.h"
+	<algorithm>
+
+1524117038 d:\c1_dbscan\c1_dbscan\stack1.h
+	<stdlib.h>
+
+1521645616 source:d:\c1_dbscan\c1_dbscan\stach1.cc
+
+1522251356 d:\c1_dbscan\c1_dbscan\distance_1.h
+	<math.h>
+	"DataPoint.h"
+
+1522252939 source:d:\c1_dbscan\c1_dbscan\distance_1.cpp
+	"distance_1.h"
+	<iostream>
+
+1524122203 source:d:\c1_dbscan\c1_dbscan\point.cpp
+	"point.h"
+	<assert.h>
+	<math.h>
+	<string.h>
+	<errno.h>
+
+1524116994 source:d:\c1_dbscan\c1_dbscan\cover_tree.cpp
+	"cover_tree.h"
+	<limits.h>
+	<stdint.h>
+	<iostream>
+	<cmath>
+	<numeric>
+
+1520781307 source:d:\c1_dbscan\test\datapoint.cpp
+	"DataPoint.h"
+
+1522692414 d:\c1_dbscan\test\datapoint.h
+	<vector>
+
+1522431476 source:d:\c1_dbscan\test\cover_tree.cpp
+	"cover_tree.h"
+	<limits.h>
+	<stdint.h>
+	<iostream>
+	<cmath>
+	<numeric>
+
+1522249386 d:\c1_dbscan\test\cover_tree.h
+	<string.h>
+	<list>
+	<stdlib.h>
+	<assert.h>
+	"point.h"
+
+1522255153 d:\c1_dbscan\test\point.h
+	"stack1.h"
+	<stdio.h>
+	<stdlib.h>
+	"DataPoint.h"
+	<assert.h>
+	<string.h>
+	<iostream>
+	<errno.h>
+
+1521427467 d:\c1_dbscan\test\stack1.h
+	<stdlib.h>
+
+1522693369 source:d:\c1_dbscan\test\dbscan.cpp
+	"ClusterAnalysis.h"
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	"cyw_timer.h"
+
+1524076244 d:\c1_dbscan\test\clusteranalysis.h
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iosfwd>
+	"cover_tree.h"
+	<windows.h>
+	"cyw_timer.h"
+
+1522250967 d:\c1_dbscan\test\cyw_timer.h
+	<string.h>
+	<windows.h>
+	<stdio.h>
+
+1524034059 source:d:\c1_dbscan\test\point.cpp
+	"point.h"
+	<assert.h>
+	<math.h>
+	<string.h>
+	<errno.h>
+
+1524085613 source:d:\c1_dbscan\test\clusteranalysis.cpp
+	"ClusterAnalysis.h"
+	<algorithm>
+
+1524225166 source:d:\c1_dbscan\c1_dbscan\c1_dbscan.cpp
+	"ClusterAnalysis.h"
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	"cyw_timer.h"
+
